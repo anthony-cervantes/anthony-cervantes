@@ -23,8 +23,11 @@ Anthony Cervantes
 ---------
 **University of Texas at San Antonio** - 2005 - 2007
 * B.S. in Computer Science
+
 **Richmond University** - 2004 - 2005
+
 **San Antonio College** - 2002 - 2004
+
 **New Horizons Computer Learning Center** 2002
 * A+ Certification Training
 * Network+ Certfification Training
