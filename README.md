@@ -17,15 +17,32 @@ Anthony Cervantes
 ======
 
 ####
-######
+###### [ [anthony-cervantes.github.io](http://anthony-cervantes.github.io) ] . [ anthony@cervantes.io ]
 
-Education
+**Education**
 ---------
+**University of Texas at San Antonio** - 2005 - 2007
+* B.S. in Computer Science
+**Richmond University** - 2004 - 2005
+**San Antonio College** - 2002 - 2004
+**New Horizons Computer Learning Center** 2002
+* A+ Certification Training
+* Network+ Certfification Training
+* MCSA Training
 
-Experience
+**Experience**
 ---------
+**Strategic Enterprise Architect, Rackspace** (2007 - Present)
+* foo
+* bar
+**Desktop Support, City Public Service,** (2006 - 2007)
+* foo
+* bar
+**Desktop Support Technician I, AT&T/IBM** (2005 - 2006)
+* foo
+* bar
 
-Skills
+**Skills**
 ------
 **Programming:** Java, Scala, Python, Golang, C++, C#, React, HTML, PHP, Flutter, Dart
 
@@ -33,13 +50,14 @@ Skills
 
 **Cloud Technologies:** AWS, Google Cloud, Firebase, Rackspace
 
-Certifications
+**Certifications**
 ------
 * ITILv4
 * TOGAF v1
 
-Awards
+**Awards**
 ------
+Datastax MVP - 2019
 
-Projects
+**Projects**
 --------
