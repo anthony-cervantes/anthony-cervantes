@@ -35,9 +35,11 @@ Anthony Cervantes
 **Strategic Enterprise Architect, Rackspace** (2007 - Present)
 * foo
 * bar
+
 **Desktop Support, City Public Service,** (2006 - 2007)
 * foo
 * bar
+
 **Desktop Support Technician I, AT&T/IBM** (2005 - 2006)
 * foo
 * bar
