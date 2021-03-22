@@ -27,9 +27,11 @@ Experience
 
 Skills
 ------
-** Programming: ** Java, Scala, Python, Golang, C++, C#, React, HTML, PHP, Flutter, Dart
-** Technologies: ** RHEL/CentOS, Ubuntu, Windows Server, MS SQL, MySQL, Cassandra DB, Scylla DB, Apache, Nginx, Redis, Saltstack, ActiveMQ
-** Cloud Technologies: ** AWS, Google Cloud, Firebase, Rackspace
+**Programming:** Java, Scala, Python, Golang, C++, C#, React, HTML, PHP, Flutter, Dart
+
+**Technologies:** RHEL/CentOS, Ubuntu, Windows Server, MS SQL, MySQL, Cassandra DB, Scylla DB, Apache, Nginx, Redis, Saltstack, ActiveMQ
+
+**Cloud Technologies:** AWS, Google Cloud, Firebase, Rackspace
 
 Certifications
 ------
