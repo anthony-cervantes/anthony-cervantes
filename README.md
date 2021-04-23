@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 Anthony Cervantes
 ======
 
+### GitHub Stats
+<a href="https://github.com/fasust">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anthony-cervantes&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/fasust">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-cervantes&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
+</a>
+
 ####
 ###### [ [anthony-cervantes.github.io](http://anthony-cervantes.github.io) ] . [ anthony@cervantes.io ]
 
