@@ -40,22 +40,38 @@ Anthony Cervantes
 
 **New Horizons Computer Learning Center** 2002
 * A+ Certification Training
-* Network+ Certfification Training
+* Network+ Certification Training
+* Security+ Certification Training
 * MCSA Training
 
 **Experience**
 ---------
 **Strategic Enterprise Architect, Rackspace** (2007 - Present)
-* foo
-* bar
 
-**Desktop Support, City Public Service,** (2006 - 2007)
-* foo
-* bar
+* Position: Strategic Enterprise Architect
+* Responsibilities:
+
+* Position: Software Developer IV
+* Responsibilities:
+* 
+
+* Position: Software Developer III
+* Responsibilities:
+
+* Position: Software Developer II
+* Responsibilities:
+
+* Position: Monitoring Administrator I
+* Responsibilities:
+
+**Desktop Support Technician II, City Public Service,** (2006 - 2007)
+* Handle support tickets submitted by users to resolve software and hardware issues
+* 
 
 **Desktop Support Technician I, AT&T/IBM** (2005 - 2006)
-* foo
-* bar
+* Assisted lead desktop support technician in a lease project to replace multiple leased laptops and desktops.
+* Handled support tickets to help resolve both hardware and software issues
+* Received letter of recommendation from Lead Techniciain
 
 **Skills**
 ------
