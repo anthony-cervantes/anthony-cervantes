@@ -48,8 +48,11 @@ Anthony Cervantes
 ---------
 **Strategic Enterprise Architect, Rackspace** (2007 - Present)
 
-* Position: Strategic Enterprise Architect
-* Responsibilities:
+Position: Strategic Enterprise Architect
+Responsibilities:
+
+* Oversee the overall Architecture direction for the Automation Pillar at Rackspace
+* Design and provide input into the des
 
 * Position: Software Developer IV
 * Responsibilities:
