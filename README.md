@@ -21,6 +21,7 @@ Anthony Cervantes
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=anthony-cervantes&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" />
 </a>
 <br/>
+<br/>
 <a href="https://github.com/anthony-cervantes">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-cervantes&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
 </a>
