@@ -23,7 +23,7 @@ Anthony Cervantes
 <br/>
 <br/>
 <a href="https://github.com/anthony-cervantes">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-cervantes&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-cervantes&count_private=true&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
 </a>
 
 ####
@@ -49,17 +49,21 @@ Anthony Cervantes
 **Strategic Enterprise Architect, Rackspace** (2007 - Present)
 
 Position: Strategic Enterprise Architect
+
 Responsibilities:
 
 * Oversee the overall Architecture direction for the Automation Pillar at Rackspace
 * Design and provide input into the des
 
-* Position: Software Developer IV
-* Responsibilities:
+Position: Software Developer IV
+
+Responsibilities:
+
 * 
 
-* Position: Software Developer III
-* Responsibilities:
+Position: Software Developer III
+
+Responsibilities:
 
 * Position: Software Developer II
 * Responsibilities:
