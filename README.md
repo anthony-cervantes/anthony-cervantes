@@ -16,16 +16,6 @@ Here are some ideas to get you started:
 Anthony Cervantes
 ======
 
-### GitHub Stats
-<a href="https://github.com/anthony-cervantes">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anthony-cervantes&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/anthony-cervantes">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-cervantes&langs_count=10&count_private=true&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
-</a>
-
 ####
 ###### [ [anthony-cervantes.github.io](http://anthony-cervantes.github.io) ] . [ anthony@cervantes.io ]
 
@@ -40,45 +30,32 @@ Anthony Cervantes
 
 **New Horizons Computer Learning Center** 2002
 * A+ Certification Training
-* Network+ Certification Training
-* Security+ Certification Training
+* Network+ Certfification Training
 * MCSA Training
 
 **Experience**
 ---------
-**Strategic Enterprise Architect, Rackspace** (2007 - Present)
+**Enterprise Architect, Rackspace** (2019 - 2021)
+* foo
+* bar
 
-Position: Strategic Enterprise Architect
+**Software Developer IV, Rackspace** (2014-2019)
+* Mentor junior developers
+* bar
 
-Responsibilities:
+**Software Developer III, Rackspace** (2011-2014)
+* foo
+* bar
 
-* Oversee the overall Architecture direction for the Automation Pillar at Rackspace
-* Design and provide input into the des
+**Software Developer II, Rackspace** (2009-2011)
+* RealOps Runbook Training
+* Colloborated with Senior Developer on designing and building automation runbooks for monitoring events
+* MSSQL database design and development
+* Provide guidance
 
-Position: Software Developer IV
-
-Responsibilities:
-
+**Monitoring Administrator I, Rackspace** (2007-2009)
 * 
-
-Position: Software Developer III
-
-Responsibilities:
-
-* Position: Software Developer II
-* Responsibilities:
-
-* Position: Monitoring Administrator I
-* Responsibilities:
-
-**Desktop Support Technician II, City Public Service,** (2006 - 2007)
-* Handle support tickets submitted by users to resolve software and hardware issues
-* 
-
-**Desktop Support Technician I, AT&T/IBM** (2005 - 2006)
-* Assisted lead desktop support technician in a lease project to replace multiple leased laptops and desktops.
-* Handled support tickets to help resolve both hardware and software issues
-* Received letter of recommendation from Lead Techniciain
+* bar
 
 **Skills**
 ------
